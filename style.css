@@ -1,0 +1,30 @@
+* {
+padding: 0px;
+margin: 0px;
+
+font-family: 'Lato', sans-serif;
+
+}
+.tm-regform{
+	opacity: 0.9;
+	width:70%;
+	border-radius: 10%;
+	font-size: 200%;
+	position: relative;
+	color: black;
+	
+	border :1px solid black ;
+	background-color: #b4f272;
+	text-align: center;
+
+}
+input{
+	border:0px ;
+	background-color: white;
+	height: 20px;
+}
+a{
+	color :red;
+	font-size: 50px;
+	
+}
